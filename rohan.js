@@ -1,3 +1,3 @@
 function fn(){
-    console.log('hello fohan')
+    console.log('hello fohan hello')
 }
