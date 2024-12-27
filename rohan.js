@@ -1,3 +1,5 @@
 function fn(){
-    console.log('hello fohan hello')
+
+    console.log('hello foh')
+
 }
